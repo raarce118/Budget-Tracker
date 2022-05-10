@@ -1,5 +1,4 @@
-## 
-Budget-Tracker
+## Budget-Tracker
 
 # Description
 
