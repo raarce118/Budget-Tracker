@@ -2,8 +2,8 @@
 
 "name": "budget-tracker",
 "short_name": "BT",
-"theme_color": "",
-"background_color": "",
+"theme_color": "#ffffff",
+"background_color": "6666ff",
 "start_url": "../index.html",
 "display": "standalone",
 
